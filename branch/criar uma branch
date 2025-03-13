@@ -10,3 +10,4 @@ entrar em uma branch - git checkout nome-branch
 
 dar push em uma branch
 git push origin nome-branch
+git merge nome-branch
